@@ -1,6 +1,8 @@
 # IEA Data Scraping and Visualization
 
 **Author: Vaibhav Agarwal and Manikanta Radhakrishna**
+
+
 **Last Updated: 26th March 2026**
 
 # Overview
