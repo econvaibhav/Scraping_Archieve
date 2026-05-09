@@ -1,7 +1,7 @@
 # IEA Data Scraping and Visualization
 
-## Author: Vaibhav Agarwal  
-## Last Updated: 26th March 2026  
+**Author: Vaibhav Agarwal and Manikanta Radhakrishna**
+**Last Updated: 26th March 2026**
 
 # Overview
 This repository contains a pipeline for scraping energy data from the International Energy Agency (IEA) and generating analytical visualizations.  
