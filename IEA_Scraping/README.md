@@ -6,7 +6,7 @@
 **Last Updated: 26th March 2026**
 
 # Overview
-This repository contains a pipeline for scraping energy data from the International Energy Agency (IEA) and generating analytical visualizations.  
+This repository contains a pipeline for scraping energy data from the International Energy Agency (IEA) and generating visualizations in R.  
 
 Project Structure
 - ### main.py: The Python scraper that extracts country-specific data from IEA web pages.  
