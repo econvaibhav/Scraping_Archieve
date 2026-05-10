@@ -11,18 +11,16 @@ def main():
 
     # Add the country names here. It creates a folder inside to the base_save_path 
     countries = [
-        "burkina-faso", "bangladesh", "bhutan", "ethiopia", 
-        "ghana", "indonesia", "india", "kenya", 
-        "namibia", "peru", "south-africa"
+        "germany"
     ]
 
     #Add topic names. must be same as page url
     topics = [
-        "energy-mix", "emissions", "electricity", "efficiency-demand", 
-        "renewables", "oil", "natural gas", "coal"
+        "energy-mix", "emissions"#, "electricity", "efficiency-demand", 
+        #"renewables", "oil", "natural gas", "coal"
     ]
 
-    base_save_path = r"/home/vaibhavagarwal/Projects/mani-work/mani-data"
+    base_save_path = r"/home/vaibhavagarwal/Projects/Scraping_Archieve/Teaching/Policy_LM/data_test"
 
     options = uc.ChromeOptions()
     # options.add_argument('--headless') 
