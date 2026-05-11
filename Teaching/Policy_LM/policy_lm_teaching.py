@@ -9,7 +9,7 @@ def main():
     driver.get(url)
     time.sleep(5)
 
-    # Scroll down for data loading
+    # # Scroll down for data loading
     # driver.execute_script("window.scrollTo(0, 1000);")
     # time.sleep(2)
 
